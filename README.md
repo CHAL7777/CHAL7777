@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chala</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chal7777&label=Profile%20views&color=0e75b6&style=flat" alt="chal7777" /> </p>
 
@@ -17,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chal7777&show_icons=true&locale=en" alt="chal7777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chal7777&" alt="chal7777" /></p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
