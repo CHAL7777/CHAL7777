@@ -1,4 +1,4 @@
-# 💫 Hey This Chala i am frontend web developer<br>and studying software engineering 
+# 💫 Hey This is Chala i am frontend web developer<br>and studying software engineering 
 
 
 
@@ -23,5 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chal7777&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
