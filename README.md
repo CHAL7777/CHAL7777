@@ -57,12 +57,12 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=chal7777&theme=radical&no-frame=false&no-bg=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=chal7777&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://github-profile-trophy.vercel.app/?username=chal7777&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8)
+
 
 [![](https://visitcount.itsvg.in/api?id=chal7777&icon=0&color=0)](https://visitcount.itsvg.in)
 
