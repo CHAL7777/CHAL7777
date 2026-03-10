@@ -22,7 +22,7 @@
         <li><b>Focus:</b> Frontend architecture & interactive UI.</li>
         <li><b>Stack:</b> TypeScript, React, Next.js, Tailwind.</li>
         <li><b>Testing:</b> Playwright (E2E) & Vitest (UI).</li>
-        <li><b>Base:</b> Addis Ababa — Remote-friendly.</li>
+        <li><b>Base:</b> Haramaya — Remote-friendly.</li>
       </ul>
     </td>
     <td width="50%" valign="top" style="border: none;">
