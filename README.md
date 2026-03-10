@@ -15,20 +15,12 @@
 
 <br />
 
-<p align="center">
-  <a href="mailto:chalagobena777@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-  <a href="https://leetcode.com/u/chal7777/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" />
-  </a>
-  <a href="https://discord.gg/chal77">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
-  <a href="https://instagram.com/chall781">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
-</p>
+<p>
+    <a href="mailto:chalagobena777@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://leetcode.com/u/chal7777/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+    <a href="https://discord.gg/chal77"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+    <a href="https://instagram.com/chall781"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  </p>
 
 <hr width="50%" />
 
