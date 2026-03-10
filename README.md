@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chal7777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1f&title_color=00e5ff&icon_color=00e5ff&text_color=cad3e0" width="450" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chal7777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1f&title_color=00e5ff&text_color=cad3e0" width="320" alt="langs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chal7777&theme=tokyonight&hide_border=true&background=0a0f1f&sideNums=00e5ff&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakNum=cad3e0" width="780" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=chal7777&theme=tokyonight&hide_border=true&background=0a0f1f&sideNums=00e5ff&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakNum=cad3e0" width="780" alt="streak" />
 </div>
 
 ### Activity
