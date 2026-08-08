@@ -38,7 +38,7 @@
 ```typescript
 // 🚀 developer.config.ts
 const developer: FullStackEngineer = {
-  name: "Chala Gobena (Gudeta)",
+  name: "Chala Gobena (chaLex)",
   title: "Full-Stack Engineer & AI Systems Developer",
   location: "Haramaya, Ethiopia 🇪🇹",
   status: "🟢 Open for High-Impact Roles & Remote Engineering",
