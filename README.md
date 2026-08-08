@@ -1,21 +1,31 @@
 <div align="center">
-  <!-- Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Chala%20Gobena&fontSize=70&fontAlign=50&fontAlignY=40&fontColor=00E5FF&desc=Frontend%20Architect%20%7C%20Design%20Systems%20%7C%20UI%20Engineer&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Chala%20Gobena&fontSize=70&fontAlign=50&fontAlignY=40&fontColor=00E5FF&desc=Full-Stack%20Architect%20%7C%20AI%20Systems%20%7C%20UI%20Engineer&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Chala Gobena Header Banner" />
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Architecting+scalable%2C+token-driven+design+systems;Engineering+pixel-perfect%2C+motion-first+UIs;Optimizing+web+performance+%26+modern+frontend+pipelines;Building+fluid+experiences+with+TypeScript+%26+React" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=🚀+Architecting+scalable%2C+token-driven+design+systems;🧠+Engineering+AI-powered+RAG+pipelines+%26+vector+search;⚡+Building+high-performance+Full-Stack+Next.js+applications;🎨+Crafting+motion-first%2C+accessible+user+experiences" alt="Typing Banner" />
   </a>
 
   <br/><br/>
 
   <!-- Social & Contact Badges -->
   <p align="center">
-    <a href="mailto:chalagobena777@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
-    <a href="https://github.com/chal7777"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" /></a>
-    <a href="https://leetcode.com/u/chal7777/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00E5FF" alt="LeetCode" /></a>
-    <a href="https://discord.gg/chal77"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00E5FF" alt="Discord" /></a>
-    <a href="https://instagram.com/chall781"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram" /></a>
+    <a href="mailto:chalagobena777@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" />
+    </a>
+    <a href="https://github.com/chal7777">
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+    </a>
+    <a href="https://leetcode.com/u/chal7777/">
+      <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+    </a>
+    <a href="https://discord.gg/chal77">
+      <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+    </a>
+    <a href="https://instagram.com/chall781">
+      <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    </a>
   </p>
 
   <p>
@@ -25,26 +35,26 @@
 
 <hr/>
 
-## ⚡ Snapshot & Trajectory
+## ⚡ Developer Snapshot & Trajectory
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎯 Developer Snapshot</h3>
       <ul>
-        <li><b>Focus:</b> Scalable UI Architecture & Component Systems</li>
-        <li><b>Primary Stack:</b> TypeScript, React, Next.js, Tailwind CSS</li>
-        <li><b>Quality Assurance:</b> Playwright (E2E) & Vitest (Unit/UI)</li>
-        <li><b>Base Location:</b> Haramaya (Open to Remote Collaborations)</li>
+        <li><b>Engineering Focus:</b> Scalable Full-Stack Architecture, AI Workflows & Token-Driven UI Systems</li>
+        <li><b>Primary Tech Stack:</b> TypeScript, Next.js (App Router), Node.js, PostgreSQL, Tailwind CSS</li>
+        <li><b>System Engineering:</b> REST & GraphQL API Design, Database Normalization, RAG & Vector Retrieval</li>
+        <li><b>Base Location:</b> Haramaya, Ethiopia 🇪🇹 (Open to Global Remote Opportunities)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🚀 Current Trajectory</h3>
       <ul>
-        <li>📦 <b>Shipping:</b> A token-driven, accessible UI component kit</li>
-        <li>🌐 <b>Exploring:</b> Streaming UI patterns & Edge API runtimes</li>
-        <li>🧠 <b>Deep Diving:</b> Modern System Design & Backend Architectures</li>
-        <li>🤝 <b>Open To:</b> High-impact frontend engineering roles</li>
+        <li>🤖 <b>Building:</b> AI Pathfinder System — Intelligent career trajectory and roadmap generator</li>
+        <li>🌐 <b>Exploring:</b> Server-Driven UI (SDUI), Streaming SSR, Edge Runtimes & Vector DBs</li>
+        <li>🧠 <b>Deep Diving:</b> Modern System Design & Backend Architecture</li>
+        <li>🤝 <b>Open To:</b> High-Impact Full-Stack & Frontend Engineering Roles</li>
       </ul>
     </td>
   </tr>
@@ -56,12 +66,13 @@
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Domain | Technologies & Tooling |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Frontend & UI** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
-| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Core & Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend & UI** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **AI & Workflows** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![RAG Architecture](https://img.shields.io/badge/RAG_Pipelines-00E5FF?style=flat-square&logo=cpu&logoColor=black) |
+| **DevOps & Testing** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
@@ -69,18 +80,18 @@
 
 ## 🏆 Featured Architectural Engineering
 
-> ### ❖ Motion-Rich Dashboard Architecture
-> Engineered an enterprise template featuring role-based authorization, high-frequency data visualizer charts, interactive modal triggers, and a fast command palette (`Cmd+K`).
+> ### ❖ AI Pathfinder Engine
+> Built an AI-driven career advisor that ingests user skill profiles, performs vector search retrieval over tech roadmaps, and synthesizes step-by-step career path recommendations with low latency.
 >
-> ### ❖ Design-Token Pipeline
-> Built a single-source-of-truth automated workflow translating Figma design variables directly into Tailwind tokens for 100% cross-platform theme sync.
+> ### ❖ Motion-Rich E-Commerce Suite
+> Engineered a modern e-commerce dashboard featuring role-based auth, real-time transaction telemetry, glassmorphic UI components, dynamic cart sync, and fast command palette searches (`Cmd+K`).
 >
-> ### ❖ CI/CD Preview & Visual Diff Engine
-> Configured automated GitHub Actions preview deployments with visual regression diffing and inline PR summary comments.
+> ### ❖ Ethio-Ebook Content Reader
+> Developed a content-first digital book platform optimized for fast client-side navigation, structured search indexing, responsive typography, and layout-shift prevention.
 
 <hr/>
 
-## 📈 Engineering Metrics & Activity
+## 📈 Engineering Activity & Metrics
 
 <div align="center">
   <table border="0">
